@@ -62,6 +62,14 @@ const translations: Translations = {
     en: "Hello, I'm Talha Tayyab",
     de: "Hallo, ich bin Talha Tayyab",
   },
+  "about.description.1": {
+    en: "As a technically skilled website developer, I combine precise coding with creative design thinking. My expertise in HTML5, CSS3, and JavaScript (ES6+) allows me to develop complex UI components with React that are both aesthetically appealing and functionally robust.",
+    de: "Als technisch versierter Website-Entwickler verbinde ich präzises Coding mit kreativem Design-Denken. Meine Expertise in HTML5, CSS3 und JavaScript (ES6+) ermöglicht es mir, komplexe UI-Komponenten mit React zu entwickeln, die sowohl ästhetisch ansprechend als auch funktional robust sind.",
+  },
+  "about.description.2": {
+    en: "My approach combines technical precision with creative design thinking. I use modern development tools and CSS-Frameworks to work more efficiently. I'm particularly interested in Progressive Web Apps and subtle animations that enhance the user experience and make websites not only functional but also appealing.",
+    de: "Mein Ansatz verbindet technische Genauigkeit mit kreativem Design. Ich nutze moderne Entwicklungstools und CSS-Frameworks, um effizienter zu arbeiten. Besonders interessiere ich mich für Progressive Web Apps und dezente Animationen, die das Nutzererlebnis verbessern und Webseiten nicht nur funktional, sondern auch ansprechend machen.",
+  },
   "about.paragraph1": {
     en: "As a technically skilled website developer, I combine precise coding with creative design thinking. My expertise in HTML5, CSS3, and JavaScript (ES6+) allows me to develop complex UI components with React that are both aesthetically appealing and functionally robust.",
     de: "Als technisch versierter Website-Entwickler verbinde ich präzises Coding mit kreativem Design-Denken. Meine Expertise in HTML5, CSS3 und JavaScript (ES6+) ermöglicht es mir, komplexe UI-Komponenten mit React zu entwickeln, die sowohl ästhetisch ansprechend als auch funktional robust sind.",
@@ -109,6 +117,10 @@ const translations: Translations = {
   "projects.description": {
     en: "A selection of my website development projects showcasing my progression from HTML/CSS/JS to React, TypeScript, and Vue.js.",
     de: "Eine Auswahl meiner Website-Entwicklungsprojekte, die meinen Fortschritt von HTML/CSS/JS zu React, TypeScript und Vue.js zeigen.",
+  },
+  "projects.subtitle": {
+    en: "Explore my recent work across web development, game design, and software engineering.",
+    de: "Entdecken Sie meine neuesten Arbeiten in den Bereichen Webentwicklung, Spieldesign und Softwareentwicklung.",
   },
   "projects.demo": {
     en: "Demo",
